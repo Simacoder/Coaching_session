@@ -6,19 +6,22 @@ Welcome to the **Data Science & Analytics Coaching Session**! This repository co
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Session Objectives](#session-objectives)
-- [Prerequisites](#prerequisites)
-- [Session Agenda](#session-agenda)
-- [Project Example: Spaza Shop Sales Forecasting](#project-example-Loan Default Analysis)
-  - [Data Generation](#data-generation)
-  - [Data Analysis & Transformation](#data-analysis--transformation)
-  - [Model Training & Evaluation](#model-training--evaluation)
-  - [API Deployment with FastAPI & Docker](#api-deployment-with-fastapi--docker)
-  - [Live Dashboard with Streamlit](#live-dashboard-with-streamlit)
-- [Live Coding & Quizzes](#live-coding--quizzes)
-- [Next Steps & Additional Resources](#next-steps--additional-resources)
-- [Contact & Acknowledgements](#contact--acknowledgements)
+- [Data Science \& Analytics Coaching Session](#data-science--analytics-coaching-session)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Session Objectives](#session-objectives)
+  - [Prerequisites](#prerequisites)
+  - [Session Agenda](#session-agenda)
+  - [Project Example: Loan default analysis](#project-example-loan-default-analysis)
+    - [Data Generation](#data-generation)
+    - [Data Analysis \& Transformation](#data-analysis--transformation)
+    - [Model Training \& Evaluation](#model-training--evaluation)
+    - [API Deployment with FastAPI \& Docker](#api-deployment-with-fastapi--docker)
+    - [Live Dashboard with Streamlit](#live-dashboard-with-streamlit)
+  - [Live Coding \& Quizzes](#live-coding--quizzes)
+  - [Next Steps \& Additional Resources](#next-steps--additional-resources)
+    - [Recommended Reading \& Resources](#recommended-reading--resources)
+  - [Contact \& Acknowledgements](#contact--acknowledgements)
 
 ---
 
@@ -157,10 +160,10 @@ After the session, you can further explore:
 ## Contact & Acknowledgements
 
 **Produced by:**  
-Simanga Mchunu – Machine Learning Engineer/ ALX_SE Alumin
-Nkosinathi Nhlapo - ALX_DS Alumin
-Kagiso Leboka - ALX_DA Alumin
-Bongani Baloyi - Software Engineer/ALX_SE Alumin
+- *Simanga Mchunu* – Machine Learning Engineer/ ALX_SE Alumin
+- *Nkosinathi Nhlapo* - ALX_DS Alumin
+- *Kagiso Leboka* - ALX_DA Alumin
+- *Bongani Baloyi* - Software Engineer/ALX_SE Alumin
 
 For questions, suggestions, or feedback, please reach out via [simacoder@hotmail.com](mailto:simacoder@hotmail.com).
 
