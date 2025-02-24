@@ -38,9 +38,9 @@ We first perform **data visualization** to understand key patterns:
 
 ## **Model Selection**
 ### **Step 1: Determine the Learning Approach**
-✅ **Supervised Learning** (Labeled dataset with `Risk_Flag`)
-✅ **Classification Problem** (Binary outcome: default or non-default)
-✅ **Large Dataset (>100K samples)** → Requires **complex models**
+- ✅ **Supervised Learning** (Labeled dataset with `Risk_Flag`)
+- ✅ **Classification Problem** (Binary outcome: default or non-default)
+- ✅ **Large Dataset (>100K samples)** → Requires **complex models**
 
 ### **Step 2: Model Choices**
 We evaluate two models:
