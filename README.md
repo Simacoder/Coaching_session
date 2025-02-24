@@ -27,7 +27,7 @@ Welcome to the **Data Science & Analytics Coaching Session**! This repository co
 
 ## Overview
 
-In this coaching session, we explore the practical side of data science and analytics. We'll work through a complete machine learning pipeline using a real-world dataset (a simulated sales dataset for a spaza shop in South Africa). We’ll cover data generation, preprocessing, exploratory data analysis (EDA), model training, and deployment.
+In this coaching session, we explore the practical side of data science and analytics. We'll work through a complete machine learning pipeline using a real-world dataset (a simulated sales dataset for risky Loan default analysis). We’ll cover data generation, preprocessing, exploratory data analysis (EDA), model training, and deployment.
 
 ---
 
