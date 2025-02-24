@@ -108,9 +108,9 @@ Open **Jupyter Notebook** or **Google Colab** and execute the step-by-step code.
 ---
 
 ## **Future Enhancements**
-✅ **Try Advanced Models:** XGBoost, LightGBM for better accuracy  
-✅ **Explain Model Predictions:** Use **SHAP (SHapley Additive Explanations)**  
-✅ **Deploy as a Web App** using **Streamlit**  
+- ✅ **Try Advanced Models:** XGBoost, LightGBM for better accuracy  
+- ✅ **Explain Model Predictions:** Use **SHAP (SHapley Additive Explanations)**  
+- ✅ **Deploy as a Web App** using **Streamlit**  
 
 ---
 
