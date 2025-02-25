@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+import os
 from imblearn.over_sampling import SMOTE
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
@@ -36,7 +37,15 @@ if selection == "Authors":
 # Load Data
 @st.cache_data
 def load_data():
-    return pd.read_csv('data/Training Data.csv')
+    file_path = 'data/Training Data.csv'
+    if not os.path.exists(file_path):
+        st.error(f"Error: File '{file_path}' not found! Please check the path.")
+        return None
+    return pd.read_csv(file_path)
+
+train = load_data()
+if train is None:
+    st.stop()  # Stop execution if file is missing
 
 train = load_data()
 
